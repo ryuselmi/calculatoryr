@@ -1,9 +1,14 @@
+html {
+  height: --webkit-fill-available;
+}
 body {
   margin: 0;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  height: --webkit-fill-available;
   background-color: hsl(0, 0%, 95%);
 }
 #calculator {
