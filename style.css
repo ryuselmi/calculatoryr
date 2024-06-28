@@ -56,7 +56,7 @@ button:active {
 }
 @media (width >= 800px) {
   #calculator {
-    max-width: 500px;
-    width: 500px;
+    max-width: 650px;
+    width: 650px;
   }
 }
