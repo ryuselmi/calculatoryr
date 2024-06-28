@@ -56,8 +56,7 @@ button:active {
 }
 @media (width >= 800px) {
   #calculator {
-    flex-direction: row-reverse;
-    align-items: center;
-    justify-content: space-evenly;
+    max-width: 500px;
+    width: 500px;
   }
 }
